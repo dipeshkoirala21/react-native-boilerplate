@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "PayCheck",
-    "slug": "PayCheck",
+    "name": "react-native-boilerplate",
+    "slug": "react-native-boilerplate",
     "privacy": "public",
     "platforms": [
       "ios",
